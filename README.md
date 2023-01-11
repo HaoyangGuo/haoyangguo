@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
+My name is Haoyang and I'm a computer science student based in San Diego, CA. Here's some info about me!
 
 ⚡ Work experience:
 
